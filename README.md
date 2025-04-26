@@ -13,12 +13,7 @@ Frontend: Blade Templates, Bootstrap
 Queue Driver: Database
 Real-Time: Pusher (WebSockets)
 Database: MySQL / SQLite
-📦 Setup Instructions
-Clone the repository:
-git clone https://github.com/your-username/laravel-realtime-order-tracker.git
-cd laravel-realtime-order-tracker
-git clone https://github.com/your-username/laravel-realtime-order-tracker.git
-cd laravel-realtime-order-tracker
+
 
 # 🛒 Laravel Real-Time Order Processing System
 
